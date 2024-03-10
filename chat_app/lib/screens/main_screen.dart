@@ -5,6 +5,7 @@ class LoginSignupScreen extends StatefulWidget {
   const LoginSignupScreen({Key? key}) : super(key: key);
 
   @override
+  // ignore: library_private_types_in_public_api
   _LoginSignupScreenState createState() => _LoginSignupScreenState();
 }
 
@@ -24,7 +25,7 @@ class _LoginSignupScreenState extends State<LoginSignupScreen> {
               height: 300,
               decoration: const BoxDecoration(
                 image: DecorationImage(
-                    image: AssetImage('image/red.jpg'), fit: BoxFit.fill),
+                    image: AssetImage("img/red.jpg"), fit: BoxFit.fill),
               ),
               child: Container(
                 padding: const EdgeInsets.only(top: 90, left: 20),
