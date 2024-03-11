@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540232067544",
+    "project_id": "english-2024-1",
+    "storage_bucket": "english-2024-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540232067544:android:168a3c7bfdc34b3ec0aaad",
+        "android_client_info": {
+          "package_name": "soysaucecrab.android.englishprogram"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZuRu2F7xaO1zJ-n6J5QGarbd16mJcg9k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
